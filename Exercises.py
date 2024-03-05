@@ -22,7 +22,7 @@ print(new_dictionary)
 #Exercise 2
 import math
 
-print(round(new_float))
+print(math.ceil(new_float))
 
 #Exercise 3
 print(math.sqrt(new_float))
